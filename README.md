@@ -1,3 +1,4 @@
 # IBM-Data-Science 
 
-This repository will be loaded with the notebooks and codes that I work or come accross in the IBM Data Science Course on Coursera
+This repository will be loaded with the assignments and projects that I work through the journey of the IBM Data Science specialization on Coursera!!
+ Thank you.
